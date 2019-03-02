@@ -16,4 +16,3 @@ pattern_create.py -l [The length that you want to generate the pattern]
 TODO:
   add more functions into it, such as:
   pattern_offset
-  ......
